@@ -1,30 +1,10 @@
-# java-design-patterns
+English | [简体中文](./README_ZH.md)
 
-#### 介绍
-java design patterns
+# Introduction
 
-#### 软件架构
-软件架构说明
+- This is a project for learning **design patterns**, written in **Java**.
+- It documents my thoughts and understanding of each design pattern, as well as their applications in real-world projects.
 
+## Notes
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
+> Each design pattern in this repository is implemented as a separate project.
